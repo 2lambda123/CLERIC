@@ -1,0 +1,43 @@
+repo_name: 2lambda123/CLERIC
+report_id: 79a6ab1d4680691407deba268840ace4
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:19:27+00:00'
+requested_by: flambard
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Common Lisp
+  description: The modern, multi-paradigm, high-performance, compiled, ANSI-standardized
+    descendant of the long-running family of Lisp programming languages
+  website_url: http://common-lisp.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1211/default_a57767c64f791d191bf835a28c88885a7e593748.png
+  detection_source_url: https://github.com/2lambda123/CLERIC
+  detection_source: Repo Metadata
+- name: Erlang
+  description: A programming language used to build massively scalable soft real-time
+    systems with requirements on high availability
+  website_url: http://www.erlang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1004/cbdf77412da183e43d41c0c0f9a7005a.jpeg
+  detection_source_url: https://github.com/2lambda123/CLERIC
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/CLERIC
+  detection_source: Repo Metadata
